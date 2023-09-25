@@ -1,0 +1,14 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = CYN
+add_core = CHI
+points = 1
+infra = 2
+
+1942.6.4 = {
+
+	controller = JAP
+
+}
+

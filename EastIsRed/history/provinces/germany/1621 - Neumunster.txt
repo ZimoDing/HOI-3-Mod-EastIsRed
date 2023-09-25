@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = GER
+add_core = DDR
+add_core = DFR
+
+air_base = 3 #Schleswig-Jagel from 1935
+
+infra = 10

@@ -1,0 +1,22 @@
+owner = MON
+controller = MON
+add_core = MON
+add_core = CHI
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4

@@ -1,0 +1,7 @@
+owner = GER
+controller = GER
+add_core = GER
+add_core = POL
+
+naval_base = 1
+infra = 10

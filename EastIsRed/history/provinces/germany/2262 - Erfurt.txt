@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = GER
+add_core = DDR
+add_core = DFR
+leadership = 0.25
+points = 5
+infra = 10
+industry = 1

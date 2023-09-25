@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = GER
+add_core = DDR
+add_core = DFR
+
+infra = 9
+
+infra = 9

@@ -1,0 +1,24 @@
+owner = TAN
+controller = TAN
+add_core = TAN
+add_core = CHI
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4

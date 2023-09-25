@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = GER
+add_core = DDR
+add_core = DFR
+
+energy = 12.00
+infra = 10
+industry = 2

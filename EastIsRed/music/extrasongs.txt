@@ -1,0 +1,214 @@
+song = {
+	name = "russianbattle2.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+                        faction = comintern
+			war = yes
+		}	
+		modifier = {
+			factor = 0
+                        NOT = { faction = comintern }
+                        war = no
+		}	
+	}
+}
+
+song = {
+	name = "non-democraticrebellion.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        tag = CHC
+                        war = yes
+		}	
+		modifier = {
+			factor = 0
+			NOT = { tag = CHC }
+                        war = no
+		}	
+	}
+}
+
+
+
+song = {
+	name = "democraticrebellion.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+                        faction = allies
+			war = yes
+		}	
+		modifier = {
+			factor = 0
+                        NOT = { faction = allies }
+                        war = no
+		}	
+	}
+}
+
+song = {
+	name = "russianpeace3.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+                        faction = comintern
+			war = no
+		}	
+		modifier = {
+			factor = 0
+                        NOT = { faction = comintern }
+                        war = yes
+		}	
+	}
+}
+
+song = {
+	name = "allies_peace1.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        faction = allies
+                        war = no
+		}	
+		modifier = {
+			factor = 0
+			NOT = { faction = allies}
+                        war = yes
+		}	
+	}
+}
+
+song = {
+	name = "allies_peace2.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        faction = allies
+                        war = no
+		}	
+		modifier = {
+			factor = 0
+			NOT = { faction = allies}
+                        war = yes
+		}	
+	}
+}
+
+song = {
+	name = "anuncertainfuture.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        war = no
+		}	
+		modifier = {
+			factor = 0
+                        war = yes
+		}	
+	}
+}
+
+song = {
+	name = "defcon2.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        war = yes
+		}	
+		modifier = {
+			factor = 0
+                        war = no
+		}	
+	}
+}
+
+song = {
+	name = "general_battle1.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        war = yes
+		}	
+		modifier = {
+			factor = 0
+                        war = no
+		}	
+	}
+}
+
+song = {
+	name = "neutral1_savedbychoppers.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        war = no
+		}	
+		modifier = {
+			factor = 0
+                        war = yes
+		}	
+	}
+}
+
+song = {
+	name = "russia_peace1.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        faction = comintern
+                        war = no
+		}	
+		modifier = {
+			factor = 0
+                        NOT = { faction = comintern }
+                        war = yes
+		}	
+	}
+}
+
+song = {
+	name = "russianbattle1.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        faction = comintern
+                        war = yes
+		}	
+		modifier = {
+			factor = 0
+                        NOT = { faction = comintern }
+                        war = no
+		}	
+	}
+}
+
+song = {
+	name = "tiesarebroken.mp3"
+	
+	chance = {
+		modifier = {
+                        factor = 2
+                        faction = allies
+                        war = no
+		}	
+		modifier = {
+			factor = 0
+                        NOT = { faction = allies }
+                        war = yes
+		}	
+	}
+}
